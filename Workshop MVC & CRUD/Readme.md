@@ -5,7 +5,7 @@ Dans cet atelier, vous devez construire un site web  MVC CRUD avec les fonctionn
 * Lister les blagues qui ont été ajoutées.
 * Trier les blagues sur la page de liste en commençant par la plus récente ou la plus ancienne.
 * Recherche d'une blague à partir d'un mot clé.
-* vous devez respecter la sutructure du projet voir [capture]()
+* vous devez respecter la sutructure du projet voir [capture](https://github.com/HananeJab/workshopMVCphp/blob/main/Workshop%20MVC%20%26%20CRUD/Structure%20projet.PNG)
 
 ## DataBase
 La base de données a une seule table "Joke" qui contient un ID et texte.
